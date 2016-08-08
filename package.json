@@ -64,7 +64,7 @@
   "jspm": {
     "dependencies": {
       "content-type": "npm:content-type@^1.0.1",
-      "rfc6570": "npm:rfc6570@^0.1.8"
+      "rfc6570": "https://github.com/entrecode/rfc6570.git"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
